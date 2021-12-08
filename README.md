@@ -1,3 +1,5 @@
+![Kevin-Mitnick_and_me](https://user-images.githubusercontent.com/27894438/145256336-629e0bf0-4db4-40e4-ad32-29d133e60618.jpg)
+
 ### Hi there 👋
 
 <!--
