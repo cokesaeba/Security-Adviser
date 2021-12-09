@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
+<img width="88" src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
