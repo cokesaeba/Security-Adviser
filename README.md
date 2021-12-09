@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
 <!-- GitHub Profile-Views Counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cokesaeba&color=blue&style=plastic" alt="CokeSaeba" /> </p>
 <br>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/antoniojaviergm">
   <img align="left" alt="Antonio's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/cokesaeba">
+<a href="https://raw.githubusercontent.com/cokesaeba">
   <img align="left" alt="Antonio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
 **I am Into ,**
