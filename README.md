@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/master/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/master/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/cokesaeba/cokesaeba/blob/master/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
 **I am Into ,**
 
-**Programming security tools and small automations. I am researching how to apply CD / CI principles in cybersecurity.**
+Programming security tools and small automations. I am researching how to apply CD / CI principles in cybersecurity.
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cokesaeba&show_icons=true&theme=dark" alt="cokesaeba" /> 
 </p>
