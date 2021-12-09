@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
 <!-- GitHub Profile-Views Counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cokesaeba&color=blue&style=plastic" alt="CokeSaeba" /> </p>
 <br>
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/blob/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
 **I am Into ,**
