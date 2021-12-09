@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-<p align="center">
-<b>About me</b><br>
-</p>
+**About me**
+
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Antonio Javier from Madrid (Spain).
 - 🌱 I’m currently learning Django, Google Cloud, Python, MongoDB, DevOps ...  
 - 👯 I’m looking to collaborate on Open-source Projects.
