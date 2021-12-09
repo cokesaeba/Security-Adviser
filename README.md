@@ -1,7 +1,5 @@
 ![Kevin-Mitnick_and_me](https://user-images.githubusercontent.com/27894438/145256336-629e0bf0-4db4-40e4-ad32-29d133e60618.jpg)
 
-### Hi there 👋
-
 <!--
 **cokesaeba/cokesaeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there <img src="https://github.com/cokesaeba/cokesaeba/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
+<h1 align="center">Hi there <img src="https://github.com/cokesaeba/cokesaeba/blob/main/img/hi.gif" width="40px">, I'm Antonio Javier, your security adviser.</h1>
 <!-- GitHub Profile-Views Counter-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cokesaeba&color=blue&style=plastic" alt="CokeSaeba" /> </p>
 <br>
