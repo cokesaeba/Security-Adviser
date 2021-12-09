@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Antonio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
+<br>
+<br>
 
 **About me**
 
@@ -37,9 +39,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Security, I'll try to help, I have 20 years of experience in this area.
 
+**Skills**
+<br>
+<br>
 <p align="center">
-<b>Skills</b><br>
-
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
