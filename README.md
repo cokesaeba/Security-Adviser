@@ -65,3 +65,5 @@ Programming security tools and small automations. I am researching how to apply 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hSyae8bPVdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+<iframe width="100%" height="475" src="https://dotnetfiddle.net/Widget/CsCons" frameborder="0"></iframe>
