@@ -55,3 +55,9 @@ Programming security tools and small automations. I am researching how to apply 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cokesaeba&show_icons=true&theme=dark" alt="cokesaeba" /> 
 </p>
+
+## My video channel
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-nuOiwNU6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
