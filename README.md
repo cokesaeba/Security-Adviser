@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-**About me**
+## About me
 
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Antonio Javier from Madrid (Spain).
 - 🌱 I’m currently learning Django, Google Cloud, Python, MongoDB, DevOps ...  
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Security, I'll try to help, I have 20 years of experience in this area.
 
-**Skills**
+## Skills
 <br>
 <br>
 <p align="center">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
-**I am Into...**
+## I am Into...
 
 Programming security tools and small automations. I am researching how to apply CD / CI principles in cybersecurity.
 <br />
