@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/antoniojaviergm">
 <img align="left" alt="Antonio's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://raw.githubusercontent.com/cokesaeba">
+<a href="https://github.com/cokesaeba">
 <img align="left" alt="Antonio's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
