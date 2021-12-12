@@ -41,13 +41,18 @@ Here are some ideas to get you started:
 
 ## Skills
 <br>
-<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img width="88" src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
+
+<br>
+<p align="center">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="13b415e3-074b-473f-bf23-6142ab919ec3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+
 
 ## I am Into...
 
