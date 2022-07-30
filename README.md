@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img width="88" src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/linux.svg" alt="linux" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/visualstudiocode.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/rust-logo-blk.svg" alt="Rust" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/Rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
 </p>
 
 <br>
