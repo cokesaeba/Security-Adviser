@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 
 ## About me
 
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Antonio Javier from Madrid (Spain).
-- 🌱 I’m currently learning Django, Google Cloud, Python, MongoDB, DevOps ...  
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Security, I'll try to help, I have 20 years of experience in this area.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> Soy Antonio Javier, vivo en Madrid.
+- 🌱 Me apasiona la tecnología, siempre estoy aprendiendo algo nuevo.  
+- 💬 +20 años de experiencia en cybersecurity.
+- 🔭 Quiero aprender más sobre blockchain y desarrollo.
 
 ## Skills
 <br>
@@ -54,11 +54,12 @@ Here are some ideas to get you started:
 </p>
 
 
-## I am Into...
+## My blog
 
-Programming security tools and small automations. I am researching how to apply CD / CI principles in cybersecurity.
+Mantengo un blog con algunos de los temas que me apasionan, principalmente relacionado con seguridad en criptoactivos.
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cokesaeba&show_icons=true&theme=dark" alt="cokesaeba" /> 
+<p align="center">
+<a href="https://secadviser.blogspot.com/">Blog de Security Adviser</a>
 </p>
 
 ## My video channel
