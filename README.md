@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <a href="https://snort.social/p/npub1hhml4uqkctuqdeuegg6ckvkt53ggkm84jgvy640e7spz6085aq0qlsmu6k">
-<img aling="left" align="left" src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/nosrt_x32.png">
+<img aling="left" align="left" src="https://raw.githubusercontent.com/cokesaeba/cokesaeba/main/img/nostr_x32.png">
 </a>
 <b>Public key: </b><code>npub1hhml4uqkctuqdeuegg6ckvkt53ggkm84jgvy640e7spz6085aq0qlsmu6k</code>
 <br>
